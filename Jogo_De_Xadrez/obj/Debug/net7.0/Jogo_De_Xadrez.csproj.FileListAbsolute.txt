@@ -1,0 +1,14 @@
+C:\C# .NET\Projetos\Jogo_De_Xadrez\Jogo_De_Xadrez\bin\Debug\net7.0\Jogo_De_Xadrez.exe
+C:\C# .NET\Projetos\Jogo_De_Xadrez\Jogo_De_Xadrez\bin\Debug\net7.0\Jogo_De_Xadrez.deps.json
+C:\C# .NET\Projetos\Jogo_De_Xadrez\Jogo_De_Xadrez\bin\Debug\net7.0\Jogo_De_Xadrez.runtimeconfig.json
+C:\C# .NET\Projetos\Jogo_De_Xadrez\Jogo_De_Xadrez\bin\Debug\net7.0\Jogo_De_Xadrez.dll
+C:\C# .NET\Projetos\Jogo_De_Xadrez\Jogo_De_Xadrez\bin\Debug\net7.0\Jogo_De_Xadrez.pdb
+C:\C# .NET\Projetos\Jogo_De_Xadrez\Jogo_De_Xadrez\obj\Debug\net7.0\Jogo_De_Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# .NET\Projetos\Jogo_De_Xadrez\Jogo_De_Xadrez\obj\Debug\net7.0\Jogo_De_Xadrez.AssemblyInfoInputs.cache
+C:\C# .NET\Projetos\Jogo_De_Xadrez\Jogo_De_Xadrez\obj\Debug\net7.0\Jogo_De_Xadrez.AssemblyInfo.cs
+C:\C# .NET\Projetos\Jogo_De_Xadrez\Jogo_De_Xadrez\obj\Debug\net7.0\Jogo_De_Xadrez.csproj.CoreCompileInputs.cache
+C:\C# .NET\Projetos\Jogo_De_Xadrez\Jogo_De_Xadrez\obj\Debug\net7.0\Jogo_De_Xadrez.dll
+C:\C# .NET\Projetos\Jogo_De_Xadrez\Jogo_De_Xadrez\obj\Debug\net7.0\refint\Jogo_De_Xadrez.dll
+C:\C# .NET\Projetos\Jogo_De_Xadrez\Jogo_De_Xadrez\obj\Debug\net7.0\Jogo_De_Xadrez.pdb
+C:\C# .NET\Projetos\Jogo_De_Xadrez\Jogo_De_Xadrez\obj\Debug\net7.0\Jogo_De_Xadrez.genruntimeconfig.cache
+C:\C# .NET\Projetos\Jogo_De_Xadrez\Jogo_De_Xadrez\obj\Debug\net7.0\ref\Jogo_De_Xadrez.dll
